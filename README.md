@@ -1,4 +1,4 @@
 # AnalizaBesed
 Repozitorij za vaje pri predmetu UVP.
 
-Avtor tega projekta sem samo jaz.
+Avtorji tega porjekta so študenti 1. letnika.
